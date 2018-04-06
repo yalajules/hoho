@@ -1,5 +1,5 @@
 # coding : utf8
-a = 42
+a = 142
 b = 4
 print ("A vous de jouer.")
 x = int(input())
