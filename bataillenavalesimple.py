@@ -1,6 +1,6 @@
 # coding : utf8
-a = 142
-b = 4
+a = 215
+b = 241
 print ("A vous de jouer.")
 x = int(input())
 y = int(input())
