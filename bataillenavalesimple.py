@@ -12,4 +12,4 @@ else:
     else :
         print("Dans l'eau")
 
-#alors !
+"""alors !"""
