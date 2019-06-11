@@ -12,4 +12,5 @@ else:
     else :
         print("Dans l'eau")
 
+#alors ! que se passe-t-il ?
 """alors !"""
